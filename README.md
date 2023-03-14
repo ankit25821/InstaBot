@@ -1,6 +1,6 @@
 # InstaBot
 
-## Installing pakages
+## Install pakages
 
 Install **[pipenv](https://pypi.org/project/pipenv/)**
 
@@ -21,7 +21,7 @@ pipenv install
 ```
 
 
-## Running Project
+## Run Project
 `main.py` must be executed to run the project. 
 ```console
 python main.py
