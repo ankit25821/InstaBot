@@ -3,13 +3,13 @@
 ### Note:
 > Dear visitors,
 >
-> I would like to emphasize that the purpose of this project is solely for educational and learning purposes. It is important to note that scraping data > from Instagram is illegal and against Instagram's policies. If you choose to engage in such activities, it may result in your account being blocked by > Instagram.
+> I would like to emphasize that the purpose of this project is solely for educational and learning purposes. It is important to note that scraping data  from Instagram is illegal and against Instagram's policies. If you choose to engage in such activities, it may result in your account being blocked by  Instagram.
 >
-> To ensure that you stay within Instagram's guidelines, I highly recommend that you read through their policy on data scraping. This will give you a > better understanding of what is and isn't allowed when it comes to scraping data from their platform.
+> To ensure that you stay within Instagram's guidelines, I highly recommend that you read through their policy on data scraping. This will give you a  better understanding of what is and isn't allowed when it comes to scraping data from their platform.
 >
 > Here's a link to Instagram's policy: https://www.instagram.com/about/legal/terms/api/
 >
-> Please keep in mind that violating Instagram's policies can have serious consequences, so I urge you to use this project only for educational purposes > and to respect Instagram's policies.
+> Please keep in mind that violating Instagram's policies can have serious consequences, so I urge you to use this project only for educational purposes  and to respect Instagram's policies.
 >
 > Thank you for your understanding and cooperation.
 
