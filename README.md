@@ -7,7 +7,7 @@
 >
 > To ensure that you stay within Instagram's guidelines, I highly recommend that you read through their policy on data scraping. This will give you a > better understanding of what is and isn't allowed when it comes to scraping data from their platform.
 >
-> Here's a link to Instagram's policy on data scraping: https://www.instagram.com/about/legal/terms/api/
+> Here's a link to Instagram's policy: https://www.instagram.com/about/legal/terms/api/
 >
 > Please keep in mind that violating Instagram's policies can have serious consequences, so I urge you to use this project only for educational purposes > and to respect Instagram's policies.
 >
